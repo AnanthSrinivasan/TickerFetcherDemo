@@ -7,7 +7,7 @@ This Python script (`screener_stocks.ipynb`) fetches stock data from Finviz, fil
 - Aggregates Finviz screeners (10% Change, Growth, IPO, etc.).
 - Fetches metrics (ATR%, EPS, Sales Y/Y TTM).
 - Outputs CSV and HTML chart gallery (see below).
-![Chart Gallery](screener_screenshot.png)
+![Chart Gallery](chart-gallery.png)
 
 ## How It Works
 1. Scrapes Finviz for tickers across predefined screens.
